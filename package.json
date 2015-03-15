@@ -1,0 +1,23 @@
+{
+  "name": "travisci-sandbox-browser",
+  "version": "0.1.0",
+  "description": "Sandbox for travis-ci browser tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "nightwatch": "node_modules/nightwatch/bin/nightwatch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tatsuyafw/travisci-sandbox-browser.git"
+  },
+  "author": "Tatsuya Hoshino",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tatsuyafw/travisci-sandbox-browser/issues"
+  },
+  "homepage": "https://github.com/tatsuyafw/travisci-sandbox-browser",
+  "dependencies": {
+    "nightwatch": "^0.5.36"
+  }
+}

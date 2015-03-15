@@ -1,0 +1,9 @@
+# node
+node_modules
+
+# nightwatch
+examples
+
+# misc
+*.log
+lib/*
